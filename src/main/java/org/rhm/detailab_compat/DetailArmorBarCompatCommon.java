@@ -435,6 +435,67 @@ public class DetailArmorBarCompatCommon {
 			.basicCompat("betterend", "elytra_armored")
 			.basicCompat("betterend", "elytra_crystalite")
 
+            // Immersive Armors
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "bone")),
+                    "immersive_armors",
+                    "bone"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "divine")),
+                    "immersive_armors",
+                    "divine"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "heavy")),
+                    "immersive_armors",
+                    "heavy"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "prismarine")),
+                    "immersive_armors",
+                    "prismarine"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "robe")),
+                    "immersive_armors",
+                    "robe"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "slime")),
+                    "immersive_armors",
+                    "slime"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "steampunk")),
+                    "immersive_armors",
+                    "steampunk"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "warrior")),
+                    "immersive_armors",
+                    "warrior"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "wither")),
+                    "immersive_armors",
+                    "wither"
+            )
+
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("immersive_armors", "wooden")),
+                    "immersive_armors",
+                    "wooden"
+            )
+
 			/*
 			.complexAllEquipment(builder ->
 					builder.setLocation(textureId("emerald","emerald")), "emeraldequipment", "emerald")
