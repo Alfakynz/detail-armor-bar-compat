@@ -496,6 +496,13 @@ public class DetailArmorBarCompatCommon {
                     "wooden"
             )
 
+            // Bronze
+            .complexAllEquipment(
+                    builder -> builder.setLocation(textureId("bronze", "bronze")),
+                    "bronze",
+                    "bronze"
+            )
+
 			/*
 			.complexAllEquipment(builder ->
 					builder.setLocation(textureId("emerald","emerald")), "emeraldequipment", "emerald")
