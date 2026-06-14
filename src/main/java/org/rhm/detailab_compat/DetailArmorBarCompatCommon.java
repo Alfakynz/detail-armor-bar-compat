@@ -503,6 +503,13 @@ public class DetailArmorBarCompatCommon {
                     "bronze"
             )
 
+			// Copper Age Backport
+			.complexAllEquipment(
+					builder -> builder.setLocation(textureId("minecraft", "copper")),
+					"minecraft",
+					"copper"
+			)
+
 			/*
 			.complexAllEquipment(builder ->
 					builder.setLocation(textureId("emerald","emerald")), "emeraldequipment", "emerald")

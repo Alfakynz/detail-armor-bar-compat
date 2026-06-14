@@ -56,6 +56,18 @@ Detail Armor Bar Compat adds mod compatibility for those who don't have it to [D
 
 </details>
 <details>
+<summary><strong><a href="https://modrinth.com/mod/bronze">Bronze</a></strong></summary>
+
+- Bronze Armor
+
+</details>
+<details>
+<summary><strong><a href="https://modrinth.com/mod/backport-copper-age">Copper Age Backport</a></strong></summary>
+
+- Copper Armor
+
+</details>
+<details>
 <summary><strong><a href="https://modrinth.com/mod/create">Create</a> and <a href="https://modrinth.com/mod/create-fabric">Create Fabric</a></strong></summary>
 
 - Copper Diving Armor
@@ -93,6 +105,21 @@ Detail Armor Bar Compat adds mod compatibility for those who don't have it to [D
 - Inert Frostology Cloak
 - Ice Skates
 - Armored Ice Skates
+
+</details>
+<details>
+<summary><strong><a href="https://modrinth.com/mod/immersive-armors">Immersive Armors</a></strong></summary>
+
+- Bone Armor
+- Divine Armor
+- Heavy Armor
+- Prismarine Armor
+- Robe Armor
+- Slime Armor
+- Steampunk Armor
+- Warrior Armor
+- Wither Armor
+- Wooden Armor
 
 </details>
 <details>
